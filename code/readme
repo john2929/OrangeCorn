@@ -1,0 +1,3 @@
+This folder contains the code that was run in  Qiime2 version 2019.1.
+
+Also included are the code run in R using the Qiime2 outputs to generate the figures and to complete some of the statistical testing.
