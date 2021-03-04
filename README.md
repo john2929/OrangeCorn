@@ -8,4 +8,4 @@ Authors: M. E. Abraham, S. L. Weimer, K. Scoles, J. I. Vargas, T. Johnson, C. Ro
 
 Journal: Poultry Science
 
-The sequence data is stored on the NCBI Sequence Read Archive database under Bioproject PRJNA669652
+The sequence data is stored on the NCBI Sequence Read Archive database under Bioproject PRJNA669652 (https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA669652)
