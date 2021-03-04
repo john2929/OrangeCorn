@@ -1,0 +1,3 @@
+Two metadata files were used. The first `sample-metadata.tsv` was used for initial data processing.
+
+The second `sample-metadata-grouped-dropped.tsv` was used to merge samples within the same pen and then to complete diversity analysis and statistical testing.
