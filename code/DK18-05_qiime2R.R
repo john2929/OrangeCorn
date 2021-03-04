@@ -43,7 +43,7 @@ row.names(metadata) <- metadata[,1]
 #metadata <- metadata[,-1]
 metadata$sample.id
 
-#Taxonomy of each OTU
+#Taxonomy of each OTU as exported as a .tsv file from Qiime
 tax = read.delim("taxonomy.tsv", header=TRUE, sep="\t")
 
 tax2 = separate(tax, Taxon, into = c("Domain", "Phylum", "Class", "Order", "Family", "Genus", "Species"), sep=";")
